@@ -1,2 +1,1 @@
-# SCoRe
-SCORE
+# SCORE
